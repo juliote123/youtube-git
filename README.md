@@ -11,3 +11,4 @@
 9. git checkout master / git checkout rama-heroes
 10. git branch -d rama-heroes
 11. git push
+12. git commit -am
